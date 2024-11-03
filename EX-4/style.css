@@ -1,0 +1,217 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family:sans-serifs;
+}
+.phone{
+    position: relative;
+    right:-40%;
+    top:50px;
+    background-color: black;
+    width:300px;
+    height:600px;
+    border-radius: 30px;
+}
+#bar{
+    color: white;
+    position: relative;
+    left:84px;
+}
+#battery{
+    top:10px;
+    left:210px;
+    color:white;
+    position: relative;
+}
+#signal{
+    color:white;
+    position: relative;
+    top:10px;
+    left:200px;
+}
+#shoes{
+    color:white;
+    position: relative;
+    left:70px;
+    transform: rotate(270deg);
+}
+.box-1{
+    display: flex;
+    margin-bottom:25px;
+}
+.box-2{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    color:white;
+    position: relative;
+    left:10px;
+}
+.time{
+    color:white;
+    position: relative;
+    top:10px;
+    left:10px;
+}
+#angle-down{
+    position: relative;
+    color:white;
+    left:14px;
+}
+.img{
+    position: relative;
+    display: flex;
+    left:105px;
+    margin-bottom: 10px;
+    top:20px;
+    width:80px;
+    border-radius: 100px;
+}
+.profile{
+    display: block;
+}
+.username{
+    color:white;
+    left:105px;
+    position:relative;
+    top:15px;
+}
+.line{
+    background-color:gray;
+    height:30px;
+    width:1px;
+    margin: 0 15px;
+}
+.box-3{
+    display:flex;
+    justify-content: center;
+    color:white;
+    justify-content: space-evenly;
+    position: relative;
+    top:40px;
+}
+p{
+    color:white;
+}
+
+.like,.followers,.following{
+    display: block;
+    text-align: center;
+}
+.box-4{
+    display: flex;
+    justify-content: center;
+    gap:6px;
+}
+.share{
+    color:white;
+    position: relative;
+    top:50px;
+    border:1x solid white;
+    background-color:rgb(83, 79, 79,0.5);
+    padding:5px;
+    border-radius: 5px;
+}
+.edit{
+    color:white;
+    position: relative;
+    top:50px;
+    border:1x solid white;
+    background-color: rgba(83, 79, 79, 0.5);
+    padding:5px;
+    border-radius: 5px;
+}
+#user-plus{
+    color:white;
+    position: relative;
+    top:50px;
+    border:1x solid white;
+    background-color: rgba(83, 79, 79, 0.5);
+    padding:5px;
+    border-radius: 5px;
+}
+.bio{
+    position: relative;
+    display: flex;
+    top:60px;
+    font-size: 10px;
+    justify-content: center;
+}
+.bio > p {
+    padding:4px;
+    width:50px;
+    background-color:  rgba(83, 79, 79, 0.5);
+    text-align: center;
+    border-radius: 4px;
+}
+.box-5{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    gap:0.5rem;
+    position: relative;
+    top:70px;
+    font-size: 10px;
+}
+#user-gear{
+    display: flex;
+    justify-content: center;
+    color: red;
+    gap:5px;
+}
+#red-gear{
+    color:white;
+}
+.box-6{
+    position: relative;
+    top:85px;
+    width:100%;
+    height:24px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.line-2{
+    display: flex;
+    justify-content: center;
+    gap:4px;
+    width:20px;
+}
+.line-colomns{
+    width:2px;
+    height:10px;
+    background-color:white;
+}
+.inside-line{
+    display: flex;
+    flex-direction: column;
+    gap:2px;
+}
+#lock,#heart{
+    color:white;
+}
+hr{
+    color:rgba(83, 79, 79, 0.5);
+    position:relative; 
+    top:90px;
+}
+.post{
+    width:33%;
+    position: relative;
+    top:90px;
+}
+#play{
+    color:white;
+    position:absolute;
+    display: flex;
+    margin:10px;
+    top:515px;
+}
+.play{
+    margin:0 10px;
+    width:33%;
+}
+.box-7{
+    display: flex;
+}
+
